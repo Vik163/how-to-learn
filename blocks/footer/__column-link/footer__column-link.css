@@ -1,3 +1,5 @@
 .footer__column-link {
   color: white;
+  opacity: 1;
+  text-decoration: none;
 }

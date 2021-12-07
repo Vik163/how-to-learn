@@ -3,4 +3,7 @@
   font-size: 30px;
   font-weight: normal;
   margin-left: 48px;
+  opacity: 1;
+  text-decoration: none;
+  color: #2f80ed;
 }

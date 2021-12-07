@@ -5,4 +5,7 @@
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
+  opacity: 1;
+  text-decoration: none;
+  color: #2f80ed;
 }
