@@ -1,36 +1,16 @@
 ﻿# НАУЧИТЬСЯ УЧИТЬСЯ
 
+* Cайт проекта:  [https://how-to-learn-nine.vercel.app/](https://how-to-learn-nine.vercel.app/)
 
+* Имя проекта:  how-to-learn
 
-* [Ссылка на страницу](https://vik163.github.io/how-to-learn/index.html)
+* Тип проекта:  Учебный проект
 
-* Живой сайт проекта:  [https://my-mesto.vercel.app/](https://my-mesto.vercel.app/)
-
-* Имя проекта:  mesto-react
-
-* Тип проекта:  React-приложение
-
-  > Здесь можно узнать современные и эффективные подходы к обучению, которые вы можете использовать в своей жизни.
+  > Здесь можно узнать о современных и эффективных подходах в обучении.
 
 * Используемые технологии:
 
   - HTML, CSS
   - БЭМ(Nested)
 
-  ***
 
-      "name": "mesto-react",
-      "version": "0.1.0",
-      "dependencies": {
-        "react": "^18.0.0",
-        "react-dom": "^18.0.0",
-        "react-scripts": "5.0.1",
-        "web-vitals": "^2.1.4"
-      },
-      "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-      },
-
-
-  ***
